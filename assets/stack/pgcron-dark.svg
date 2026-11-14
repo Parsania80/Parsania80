@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="137" height="49" viewBox="0 0 137 49" role="img" aria-label="pg_cron">
+<title>pg_cron</title>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#27364d" stroke-width="0.7" opacity="0.4"/></pattern></defs>
+<rect x="0.75" y="0.75" width="135.5" height="47.5" rx="22" fill="#0b1120" stroke="#27364d" stroke-width="1.5"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif"><rect x="10" y="10" width="29" height="29" rx="8" fill="#7dbbff"/><text x="24.5" y="30" fill="#0b1120" font-size="13" font-weight="750" text-anchor="middle">Cr</text><text x="50" y="31" fill="#eff5ff" font-size="17" font-weight="600" >pg_cron</text></g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119" height="49" viewBox="0 0 119 49" role="img" aria-label="Drift">
+<title>Drift</title>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#d5dfed" stroke-width="0.7" opacity="0.4"/></pattern></defs>
+<rect x="0.75" y="0.75" width="117.5" height="47.5" rx="22" fill="#f5f8ff" stroke="#d5dfed" stroke-width="1.5"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif"><rect x="10" y="10" width="29" height="29" rx="8" fill="#2368b4"/><text x="24.5" y="30" fill="#f5f8ff" font-size="13" font-weight="750" text-anchor="middle">Dr</text><text x="50" y="31" fill="#14243c" font-size="17" font-weight="600" >Drift</text></g>
+</svg>
