@@ -2,16 +2,16 @@
   "username": "Parsania80",
   "updated": "2026-11-14",
   "period_label": "01 Jan 2026 \u2014 14 Nov 2026",
-  "total_contributions": 429,
-  "active_days": 89,
-  "public_repos": 5,
+  "total_contributions": 437,
+  "active_days": 90,
+  "public_repos": 6,
   "followers": 5,
-  "stars": 0,
+  "stars": 1,
   "languages": {
-    "Rust": 7291256,
+    "Rust": 7341018,
     "Go": 1087082,
-    "Python": 269527,
-    "Shell": 216005,
+    "Python": 309318,
+    "Shell": 249446,
     "PowerShell": 101289,
     "Other": 113401
   },
@@ -1603,8 +1603,8 @@
     },
     {
       "date": "2026-11-14",
-      "level": 0,
-      "count": 0
+      "level": 3,
+      "count": 8
     }
   ],
   "scope": "GitHub-visible calendar; language bytes from public non-fork repositories only.",
